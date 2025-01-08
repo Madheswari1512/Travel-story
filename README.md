@@ -28,3 +28,13 @@ Travel Story is a 🖼️ personal travel memory-storing app built with the MERN
 
 
 PROJECT VIDEO DEMO : 
+
+
+
+
+
+
+
+
+
+[Travelstory Output.webm](https://github.com/user-attachments/assets/68f2968a-47f9-4825-97e3-69b8804271ea)
